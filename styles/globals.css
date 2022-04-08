@@ -12,7 +12,7 @@
 }
 
 .hero {
-    background-image: url('../public/images/desktop/image-hero.jpg');
+    background-image: url('https://i.ibb.co/0fQYzJd/image-hero.jpg');
     background-position: center;
     background-size: cover;
 }
